@@ -1,0 +1,16 @@
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\bin\Debug\net6.0\CasitaDeFreireDAO.deps.json
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\bin\Debug\net6.0\CasitaDeFreireDAO.dll
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\bin\Debug\net6.0\CasitaDeFreireDAO.pdb
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\CasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\CasitaDeFreireDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\CasitaDeFreireDAO.AssemblyInfoInputs.cache
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\CasitaDeFreireDAO.AssemblyInfo.cs
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\CasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\CasitaDeFreireDAO.dll
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\refint\CasitaDeFreireDAO.dll
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\CasitaDeFreireDAO.pdb
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\ref\CasitaDeFreireDAO.dll
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\bin\Debug\net6.0\LaCasitaDeFreireWEB.dll
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\bin\Debug\net6.0\LaCasitaDeFreireWEB.pdb
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\bin\Debug\net6.0\LaCasitaDeFreireWEB.dll.config
+C:\Universidad\ProyectoSistI\PR-KINDER\Clases\InstitutionADO\InstitutionADO\obj\Debug\net6.0\CasitaDeFreireDAO.csproj.CopyComplete

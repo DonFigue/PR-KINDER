@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CasitaDeFreireDAO/1.0.0": {
+        "dependencies": {
+          "LaCasitaDeFreireWEB": "1.0.0"
+        },
+        "runtime": {
+          "CasitaDeFreireDAO.dll": {}
+        }
+      },
+      "LaCasitaDeFreireWEB/1.0.0": {
+        "runtime": {
+          "LaCasitaDeFreireWEB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CasitaDeFreireDAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LaCasitaDeFreireWEB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

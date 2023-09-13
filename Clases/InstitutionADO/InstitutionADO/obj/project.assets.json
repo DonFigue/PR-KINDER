@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\figue\\.nuget\\packages\\": {},
+    "C:\\Users\\VALERIARC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\figue\\source\\repos\\InstitutionADO\\InstitutionADO\\InstitutionADO.csproj",
-      "projectName": "InstitutionADO",
-      "projectPath": "C:\\Users\\figue\\source\\repos\\InstitutionADO\\InstitutionADO\\InstitutionADO.csproj",
-      "packagesPath": "C:\\Users\\figue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\figue\\source\\repos\\InstitutionADO\\InstitutionADO\\obj\\",
+      "projectUniqueName": "C:\\Universidad\\ProyectoSistI\\PR-KINDER\\Clases\\InstitutionADO\\InstitutionADO\\CasitaDeFreireDAO.csproj",
+      "projectName": "CasitaDeFreireDAO",
+      "projectPath": "C:\\Universidad\\ProyectoSistI\\PR-KINDER\\Clases\\InstitutionADO\\InstitutionADO\\CasitaDeFreireDAO.csproj",
+      "packagesPath": "C:\\Users\\VALERIARC\\.nuget\\packages\\",
+      "outputPath": "C:\\Universidad\\ProyectoSistI\\PR-KINDER\\Clases\\InstitutionADO\\InstitutionADO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\figue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VALERIARC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

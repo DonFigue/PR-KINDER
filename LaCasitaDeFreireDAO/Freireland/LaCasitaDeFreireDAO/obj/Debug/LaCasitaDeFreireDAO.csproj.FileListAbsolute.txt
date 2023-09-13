@@ -1,0 +1,6 @@
+C:\Universidad\Freireland\Freireland\bin\Debug\Freireland.dll
+C:\Universidad\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Universidad\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Universidad\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Universidad\Freireland\Freireland\obj\Debug\Freireland.dll
+C:\Universidad\Freireland\Freireland\obj\Debug\Freireland.pdb
