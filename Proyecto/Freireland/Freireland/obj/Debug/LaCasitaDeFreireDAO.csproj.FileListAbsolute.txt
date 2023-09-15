@@ -10,3 +10,9 @@ E:\Nueva carpeta (2)\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.
 E:\Nueva carpeta (2)\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
 E:\Nueva carpeta (2)\Freireland\Freireland\obj\Debug\Freireland.dll
 E:\Nueva carpeta (2)\Freireland\Freireland\obj\Debug\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\bin\Debug\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\bin\Debug\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\obj\Debug\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\obj\Debug\Freireland.pdb

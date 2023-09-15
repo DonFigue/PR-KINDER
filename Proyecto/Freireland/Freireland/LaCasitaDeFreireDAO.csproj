@@ -42,12 +42,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Implementation\BaseImpl.cs" />
+    <Compile Include="Implementation\StudentImpl.cs" />
     <Compile Include="Implementation\TutorImpl.cs" />
     <Compile Include="Interfaces\IBase.cs" />
+    <Compile Include="Interfaces\IStudent.cs" />
     <Compile Include="Interfaces\ITutor.cs" />
     <Compile Include="Model\BaseModel.cs" />
     <Compile Include="Model\Person.cs" />
-    <Compile Include="Model\Student.cs" />
+    <Compile Include="Model\Students.cs" />
     <Compile Include="Model\Tutor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

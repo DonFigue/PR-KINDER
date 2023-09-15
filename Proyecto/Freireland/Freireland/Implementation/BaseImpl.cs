@@ -10,8 +10,9 @@ namespace Freireland.Implementation
 {
     public class BaseImpl
     {
+        //FIGUE
         // string connectionString = @"Server=VALEROJAS\VALERIA;Database=dbInstitution;User Id = sa; Password=vale123;";
-        string connectionString = @"Server=localhost\SQLEXPRESS;Database=dbInstitution;Trusted_Connection=True;";
+        string connectionString = @"Server=PABLOAGREDA;Database=dbInstitution;User Id=sa;Password=valeria";
         internal string query = "";
         public SqlCommand CreateBasicCommand()
         {
@@ -83,6 +84,7 @@ namespace Freireland.Implementation
             {
                 command.Connection.Close();
             }
+
         }
 
 
