@@ -10,7 +10,8 @@ namespace InstitutionDAO.Implementation
 {
     public class BaseImpl
     {
-        string connectionString = @"Server=LAPTOP-76I2AD0R\SQLEXPRESS;Database=dbInstitution;User Id=sa;Password=nuttertools;";
+        //string connectionString = @"Server=LAPTOP-76I2AD0R\SQLEXPRESS;Database=dbInstitution;User Id=sa;Password=nuttertools;";
+        string connectionString = @"Server=VALEROJAS\VALERIA;Database=dbInstitution;User Id = sa; Password=vale123;";
 
         internal string query;
 
