@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Escritorio\ProyectoSistemas\InstitutionDAO\bin\Debug\InstitutionDAO.dll
+C:\Users\HP\OneDrive\Escritorio\ProyectoSistemas\InstitutionDAO\bin\Debug\InstitutionDAO.pdb
+C:\Users\HP\OneDrive\Escritorio\ProyectoSistemas\InstitutionDAO\obj\Debug\InstitutionDAO.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\ProyectoSistemas\InstitutionDAO\obj\Debug\InstitutionDAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\ProyectoSistemas\InstitutionDAO\obj\Debug\InstitutionDAO.dll
+C:\Users\HP\OneDrive\Escritorio\ProyectoSistemas\InstitutionDAO\obj\Debug\InstitutionDAO.pdb
+C:\Universidad\ProyectoSistI\PR-KINDER\ProyectoSistemas\InstitutionDAO\bin\Debug\InstitutionDAO.dll
+C:\Universidad\ProyectoSistI\PR-KINDER\ProyectoSistemas\InstitutionDAO\bin\Debug\InstitutionDAO.pdb
+C:\Universidad\ProyectoSistI\PR-KINDER\ProyectoSistemas\InstitutionDAO\obj\Debug\InstitutionDAO.csproj.AssemblyReference.cache
+C:\Universidad\ProyectoSistI\PR-KINDER\ProyectoSistemas\InstitutionDAO\obj\Debug\InstitutionDAO.csproj.CoreCompileInputs.cache
+C:\Universidad\ProyectoSistI\PR-KINDER\ProyectoSistemas\InstitutionDAO\obj\Debug\InstitutionDAO.dll
+C:\Universidad\ProyectoSistI\PR-KINDER\ProyectoSistemas\InstitutionDAO\obj\Debug\InstitutionDAO.pdb

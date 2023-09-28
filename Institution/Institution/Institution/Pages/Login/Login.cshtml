@@ -1,0 +1,71 @@
+﻿@page
+@model Institution.Pages.Login.LoginModel
+@{
+}
+<div class="bodyLogin">
+    <div class="login-section">
+        <div class="formbox login">
+            <form action="">
+                <h2>Sign in</h2>
+                <div class="input-box">
+                    <span class="icon">
+                        <i class="bx bxs-envelope"></i>
+                    </span>
+                    <input type="email" required>
+                    <label for="">Email</label>
+                </div>
+
+                <div class="input-box">
+                    <span class="icon">
+                        <i class="bx bxs-lock-alt"></i>
+                    </span>
+                    <input type="password" required>
+                    <label for="">Password</label>
+                </div>
+
+
+                <a class=" btnlogin nav-link text-dark" asp-area="" asp-page="/Index">Sign in</a>
+
+                <div class="create-account">
+                    <p>Don't have an account? <a href="#" class="register-link">Sign Up</a></p>
+                </div>
+            </form>
+        </div>
+
+        <div class="formbox register">
+            <form action="">
+                <h2>Sign Up</h2>
+                <div class="input-box">
+                    <span class="icon">
+                        <i class="bx bxs-envelope"></i>
+                    </span>
+                    <input type="Email" required>
+                    <label for="">Email</label>
+                </div>
+
+                <div class="input-box">
+                    <span class="icon">
+                        <i class="bx bxs-lock-alt"></i>
+                    </span>
+                    <input type="password" required>
+                    <label for="">Password</label>
+                </div>
+
+                <div class="input-box">
+                    <span class="icon">
+                        <i class="bx bxs-lock-alt"></i>
+                    </span>
+                    <input type="password" required>
+                    <label for="">Confirm Password</label>
+                </div>
+
+                <a class=" btnlogin nav-link text-dark" asp-area="" asp-page="/Index">Sign Up</a>
+
+                <div class="create-account">
+                    <p>Already have an account? <a href="Index" class="login-link">Sign In</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="~/js/site.js"></script>
+</div>
