@@ -6,39 +6,87 @@ using System.Threading.Tasks;
 
 namespace Freireland.Model
 {
-    public class Person
+    public class Person : BaseModel
     {
-        public int IdPerson { get; set; }
+        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public string SecondLastName { get; set; }
         public string CI { get; set; }
-        public string Cellphone { get; set; }
-        public int AddressID { get; set; }
-        public int ProvinceID { get; set; }
+        public char Gender { get; set; }
+        public DateTime Birthdate { get; set; }
+        public string Address { get; set; }
+        public string PlaceOfBirth { get; set; }
 
         public Person()
         {
-
-        }
-        public Person(int idPerson, string firstName, string lastName, string cI, string cellphone, int addressID, int provinceID)
-        {
-            IdPerson = idPerson;
-            FirstName = firstName;
-            LastName = lastName;
-            CI = cI;
-            Cellphone = cellphone;
-            AddressID = addressID;
-            ProvinceID = provinceID;
+            
         }
 
-        public Person(string firstName, string lastName, string cI, string cellphone, int addressID, int provinceID)
+        /// <summary>
+        /// GET
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="firstName"></param>
+        /// <param name="lastName"></param>
+        /// <param name="secondLastName"></param>
+        /// <param name="cI"></param>
+        /// <param name="gender"></param>
+        /// <param name="birthdate"></param>
+        /// <param name="address"></param>
+        /// <param name="placeOfBirth"></param>
+        /// <param name="status"></param>
+        /// <param name="registerDate"></param>
+        /// <param name="lastUpdate"></param>
+        /// <param name="userID"></param>
+        public Person(int id, string firstName, string lastName, string secondLastName, string cI, char gender, DateTime birthdate, string address, string placeOfBirth, byte status, DateTime registerDate, DateTime lastUpdate, int userID) : base(status, registerDate, lastUpdate, userID)
+        {
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+            SecondLastName = secondLastName;
+            CI = cI;
+            Gender = gender;
+            Birthdate = birthdate;
+            Address = address;
+            PlaceOfBirth = placeOfBirth;
+        }
+
+        /// <summary>
+        /// INSERT
+        /// </summary>
+        /// <param name="firstName"></param>
+        /// <param name="lastName"></param>
+        /// <param name="secondLastName"></param>
+        /// <param name="cI"></param>
+        /// <param name="gender"></param>
+        /// <param name="birthdate"></param>
+        /// <param name="address"></param>
+        /// <param name="placeOfBirth"></param>
+        /// <param name="userID"></param>
+        public Person(string firstName, string lastName, string secondLastName, string cI, char gender, DateTime birthdate, string address, string placeOfBirth, int userID) : base(userID)
         {
             FirstName = firstName;
             LastName = lastName;
+            SecondLastName = secondLastName;
             CI = cI;
-            Cellphone = cellphone;
-            AddressID = addressID;
-            ProvinceID = provinceID;
+            Gender = gender;
+            Birthdate = birthdate;
+            Address = address;
+            PlaceOfBirth = placeOfBirth;
+        }
+
+        public Person(int id, string firstName, string lastName, string secondLastName, string cI, char gender, DateTime birthdate, string address, string placeOfBirth, int userID) : base(userID)
+        {
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+            SecondLastName = secondLastName;
+            CI = cI;
+            Gender = gender;
+            Birthdate = birthdate;
+            Address = address;
+            PlaceOfBirth = placeOfBirth;
         }
     }
 }

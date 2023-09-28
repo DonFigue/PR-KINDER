@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Freireland.Interfaces
 {
-    internal interface IBase<T>
+    public interface IBase<T>
     {
         int Delete(T t);
         int Insert(T t);

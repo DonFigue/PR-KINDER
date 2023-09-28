@@ -10,11 +10,12 @@
 
     <link rel="icon" href="/img/logokinder (1).ico" type="image/x-icon" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <link rel="stylesheet" href="dist/css/site.css">
     <%--<link rel="stylesheet" href="~/Institution.styles.css" />--%>
 </head>
 <body>
-    <form>
+    
         <header>
             <a class="logo" href="/Default.aspx">Kindergarden</a>
 
@@ -39,13 +40,16 @@
                                 <a class="nav-link" href="/Pages/Student/Student.aspx">Students</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Professors</a>
+                                <a class="nav-link" href="/Pages/User/UserIndex.aspx">User</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Pages/Attorney/AttorneyIndex.aspx">Attorneys</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Courses</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Report</a>
+                           <li class="nav-item">
+                                <a class="nav-link" href="/Pages/Login/PasswordChange.aspx">Password Change</a>
                             </li>
                         </ul>
                     </div>
@@ -87,9 +91,10 @@
                 &#169; Todos los derechos reservados 2023 - Institution - <a href="~/Privacy.aspx">Privacy</a>
             </div>
         </footer>
-    </form>
+    
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
     <script src="dist/js/site.js"></script>
 </body>
 </html>

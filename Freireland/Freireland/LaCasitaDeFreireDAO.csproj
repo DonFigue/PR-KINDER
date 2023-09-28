@@ -41,17 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Implementation\AttorneyImpl.cs" />
     <Compile Include="Implementation\BaseImpl.cs" />
+    <Compile Include="Implementation\StudentImpl.cs" />
     <Compile Include="Implementation\TutorImpl.cs" />
+    <Compile Include="Implementation\UserImpl.cs" />
+    <Compile Include="Interfaces\IAttorney.cs" />
     <Compile Include="Interfaces\IBase.cs" />
+    <Compile Include="Interfaces\IStudent.cs" />
     <Compile Include="Interfaces\ITutor.cs" />
+    <Compile Include="Interfaces\IUser.cs" />
+    <Compile Include="Model\Attorney.cs" />
+    <Compile Include="Model\BaseModel.cs" />
     <Compile Include="Model\Person.cs" />
-    <Compile Include="Model\Student.cs" />
+    <Compile Include="Model\Students.cs" />
     <Compile Include="Model\Tutor.cs" />
+    <Compile Include="Model\Users.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools\EnvMail.cs" />
+    <Compile Include="Tools\Validate.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Tools\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -5,35 +5,16 @@
     <div class="card text-black">
     <div class="card-header">
         <h3>Students</h3>
+        <form runat="server" id="search">
+            <asp:TextBox runat="server" ID="txtSearch" CssClass="form-control" style="display: inline-block; width: auto;" />
+            <asp:Button runat="server" ID="btnSearch" CssClass="btn btn-primary" Text="Search" OnClick="btnSearch_Click" style="display: inline-block; margin-left: 10px;" />
+        </form>
     </div>
-    <div class="card-body">
-        <table class="table table-striped">
-            <thead>
-                <tr>
-                    <th>CI</th>
-                    <th>FullName</th>
-                    <th>Tutor Cellphone</th>
-                    <th>Course</th>
-                    <th><a href="/Pages/Student/StudentCreate.aspx" class="btn btn-outline-success">Add Student</a></th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>8545633</td>
-                    <td>Bradd Pitt</td>
-                    <td>65498711</td>
-                    <td>Kinder A</td>
-                    <td>
-                        <div class="btn-group" role="group" aria-label="Basic outlined example">
-                            <a class="btn btn-outline-success" href="#">Payments</a>&nbsp;
-                            <a class="btn btn-outline-warning" href="/Pages/Student/StudentUpdate.aspx">Edit</a>&nbsp;
-                            <a class="btn btn-outline-danger" asp-page="Delete">Delete</a>
-                        </div>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-
+    <div ID="divTable" runat="server" class="card-body">
+        
     </div>
 </div>
+
+
+
 </asp:Content>

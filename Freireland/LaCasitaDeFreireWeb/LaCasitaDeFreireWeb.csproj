@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="dist\css\login.css" />
     <Content Include="dist\css\site.css" />
     <Content Include="dist\img\festival.jpg" />
     <Content Include="dist\img\festivalseptember.jpg" />
@@ -82,12 +83,21 @@
     <Content Include="dist\img\talentshow.jpg" />
     <Content Include="dist\js\site.js" />
     <Content Include="Global.asax" />
+    <Content Include="Pages\Attorney\AttorneyCreate.aspx" />
+    <Content Include="Pages\Attorney\AttorneyIndex.aspx" />
+    <Content Include="Pages\Attorney\AttorneyUpdate.aspx" />
+    <Content Include="Pages\Login\Login.aspx" />
+    <Content Include="Pages\Login\PasswordChange.aspx" />
+    <Content Include="Pages\Login\RecoverPassword.aspx" />
     <Content Include="Pages\Student\Student.aspx" />
     <Content Include="Pages\Student\StudentCreate.aspx" />
     <Content Include="Pages\Student\StudentUpdate.aspx" />
     <Content Include="Pages\Tutor\TutorCreate.aspx" />
     <Content Include="Pages\Tutor\TutorIndex.aspx" />
     <Content Include="Pages\Tutor\TutorUpdate.aspx" />
+    <Content Include="Pages\User\UserCreate.aspx" />
+    <Content Include="Pages\User\UserIndex.aspx" />
+    <Content Include="Pages\User\UserUpdate.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -100,6 +110,48 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Attorney\AttorneyCreate.aspx.cs">
+      <DependentUpon>AttorneyCreate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Attorney\AttorneyCreate.aspx.designer.cs">
+      <DependentUpon>AttorneyCreate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Attorney\AttorneyIndex.aspx.cs">
+      <DependentUpon>AttorneyIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Attorney\AttorneyIndex.aspx.designer.cs">
+      <DependentUpon>AttorneyIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Attorney\AttorneyUpdate.aspx.cs">
+      <DependentUpon>AttorneyUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Attorney\AttorneyUpdate.aspx.designer.cs">
+      <DependentUpon>AttorneyUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Login\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Login\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Login\PasswordChange.aspx.cs">
+      <DependentUpon>PasswordChange.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Login\PasswordChange.aspx.designer.cs">
+      <DependentUpon>PasswordChange.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Login\RecoverPassword.aspx.cs">
+      <DependentUpon>RecoverPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Login\RecoverPassword.aspx.designer.cs">
+      <DependentUpon>RecoverPassword.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\Student\StudentCreate.aspx.cs">
       <DependentUpon>StudentCreate.aspx</DependentUpon>
@@ -136,6 +188,27 @@
     <Compile Include="Pages\Tutor\TutorUpdate.aspx.designer.cs">
       <DependentUpon>TutorUpdate.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Pages\User\UserCreate.aspx.cs">
+      <DependentUpon>UserCreate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\User\UserCreate.aspx.designer.cs">
+      <DependentUpon>UserCreate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\User\UserIndex.aspx.cs">
+      <DependentUpon>UserIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\User\UserIndex.aspx.designer.cs">
+      <DependentUpon>UserIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\User\UserUpdate.aspx.cs">
+      <DependentUpon>UserUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\User\UserUpdate.aspx.designer.cs">
+      <DependentUpon>UserUpdate.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -168,13 +241,13 @@
     <Folder Include="Pages\Student\NewFolder1\" />
   </ItemGroup>
   <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Freireland\LaCasitaDeFreireDAO.csproj">
       <Project>{f6f74142-06b3-447b-92f7-a2a052bb9c92}</Project>
       <Name>LaCasitaDeFreireDAO</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
