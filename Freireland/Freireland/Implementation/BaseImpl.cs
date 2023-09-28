@@ -10,8 +10,12 @@ namespace Freireland.Implementation
 {
     public class BaseImpl
     {
-        // string connectionString = @"Server=VALEROJAS\VALERIA;Database=dbInstitution;User Id = sa; Password=vale123;";
-        string connectionString = @"Server=VALEROJAS\VALERIA;Database=dbInstitution;User Id = sa; Password=vale123;";
+        //string connectionString = @"Server=LAPTOP-76I2AD0R\SQLEXPRESS;Database=dbInstitution;User Id = sa; Password=nuttertools;";
+
+        //string connectionString = @"Server=LAPTOP-76I2AD0R\SQLEXPRESS;Database=dbInstitution;User Id = sa; Password=nuttertools;";
+        //string connectionString = @"Server=PABLOAGREDA;Database=dbInstitution;User Id=sa;Password=valeria";
+        string connectionString = @"Server=localhost\SQLEXPRESS;Database=dbInstitution;Trusted_Connection=True;";
+
         internal string query = "";
         public SqlCommand CreateBasicCommand()
         {
@@ -83,6 +87,7 @@ namespace Freireland.Implementation
             {
                 command.Connection.Close();
             }
+
         }
 
 
@@ -141,8 +146,47 @@ namespace Freireland.Implementation
             }
             return tabla;
         }
+        public int ExecuteNBasicCommand(List<SqlCommand> commands)
+        {
+            SqlTransaction t = null;
+            SqlCommand command0 = commands[0];
+            int n = 0;
+            try
+            {
+                command0.Connection.Open();
+                t = command0.Connection.BeginTransaction();
+                foreach (SqlCommand item in commands)
+                {
+                    item.Transaction = t;
+                    n += item.ExecuteNonQuery();
+                }
+                t.Commit();
+            }
+            catch (Exception ex)
+            {
+                t.Rollback();
+                throw ex;
+            }
+            finally
+            {
+                command0.Connection.Close();
 
-
+            }
+            return n;
+        }
+        public DataTable ExecutableDataTableCommand(SqlCommand command)
+        {
+            DataTable table = new DataTable();
+            try
+            {
+                command.Connection.Open();
+                SqlDataAdapter adapter = new SqlDataAdapter(command);
+                adapter.Fill(table);
+            }
+            catch (Exception ex) { throw ex; }
+            finally { command.Connection.Close(); }
+            return table;
+        }
 
     }
 }

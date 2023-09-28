@@ -3,97 +3,119 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <div class="card bg-dark text-white">
+    <form runat="server" id="form">
+     <div class="card bg-dark text-white">
         <div class="card-header">
-            <h3>Edit Student</h3>
+            <h3>Students</h3>
         </div>
         <div class="card-body">
-              
+            <div>
+                <div>
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                       <div class="card-body">
                             <div class="row">
+                                <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label for="StudentCode" class="control-label">Código de estudiante</label>
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtCode"  />
+                                        <asp:Label ID="lblCodeError" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                       
+                                            </div>
+                                    </div>
                                  <div class="col-md-6">
                                        <div class="form-group">
                                          <label for="FirstName" class="control-label">First Name</label>
-                                         <input type="text" id="FirstName" name="FirstName" class="form-control" />
-                                        </div>
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtFirstName"  />
+                                        <asp:Label ID="lblNameError" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                      
+                                           </div>
                                   </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="LastName" class="control-label">Last Name</label>
-                                            <input type="text" id="LastName" name="LastName" class="form-control" />
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtLastName"  />
+                                        <asp:Label ID="lblApellidoError" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                        
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="SecondLastName" class="control-label">Second Last Name</label>
-                                            <input type="text" id="SecondLastName" name="SecondLastName" class="form-control" />
-                                        </div>
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtSecondLastName"  />
+                                        <asp:Label ID="lblSegError" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                       
+                                            </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="Ci" class="control-label">CI</label>
-                                            <input type="text" id="Ci" name="Ci" class="form-control" />
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                         <label for="Course" class="control-label">Course</label>
-                                        <p></p>
-                                        
-                                        <select name="Course" id="Course">
-                                            <option value="nidito">Nidito</option>
-                                            <option value="preKindeA">Pre Kinder A</option>
-                                            <option value="preKindeB">Pre Kinder B</option>
-
-                                            <option value="kinderA">Kinder A</option>
-                                            <option value="kinderB">Kinder B</option>
-
-                                        </select>
-                                            
-
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtCI"  />
+                                        <asp:Label ID="lblCiError" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                       
+                                            </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="Discapacity" class="control-label">Discapacity</label>
-                                            <input type="text" id="Discapacity" name="Discapacity" class="form-control" />
-                                        </div>
+                                            <label for="Address" class="control-label">Address</label>
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtAddress"  />
+                                        <asp:Label ID="lblAddress" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                       
+                                            </div>
                                     </div>
-
-                                      <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label for="BirthDate" class="control-label">BirthDate</label>
-                                            <input type="Date" id="BirthDate" name="BirthDate" class="form-control" />
-                                        </div>
-                                    </div>
-
                                      <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="codStudent" class="control-label">codStudent</label>
-                                            <input type="text" id="codStudent" name="codStudent" class="form-control" />
-                                        </div>
+                                            <label for="Discapacity" class="control-label">Discapacidad</label>
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtDiscapacity"  />
+                                        <asp:Label ID="lblDiscapacity" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                       
+                                            </div>
                                     </div>
-                                  
-                                    
-                                        <p> </p>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="gender">Gender:</label>
-                                           
-                                            <input type="radio" id="male" name="gender" value="male">
-                                            <label for="male">Male</label>
-                                            <input type="radio" id="female" name="gender" value="female">
-                                            <label for="female">Female</label>
-                                            <input type="radio" id="other" name="gender" value="other">
-                                            <label for="other">Other</label>
-                                        </div>
+                                            <label for="BirthDate" class="control-label">BirthDate</label>
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtBirthDate" TextMode="Date"  />
+                                        <asp:Label ID="lblBirthdate" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                       
+                                            </div>
                                     </div>
+                                        <p> </p>
                                 
-                                 
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            
+
+                                            <asp:RadioButtonList ID="rdbGender" runat="server" CssClass="form-control">
+                                                <asp:ListItem Text="Masculino" Value="M" />
+                                                <asp:ListItem Text="Femenino" Value="F" />
+                                                <asp:ListItem Text="Otro" Value="O" Selected="True" />
+                                            </asp:RadioButtonList>
+                                        <asp:Label ID="lblGenero" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                       
+                                            </div>
+                                    </div>
+                                 <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label for="PlaceBirth" class="control-label">Place of Birth</label>
+                                           <asp:TextBox runat="server" CssClass="form-control" ID="txtPlaceOfBirth"  />
+                                        <asp:Label ID="lblPlaceBirth" runat="server" CssClass="error-message" style="color: red;" Visible="false"></asp:Label>
+                                       
+                                            </div>
+                                     </div>
                                 </div>
                                     </div>
-        <div class="card-footer bg-dark text-white ">
+                                        <div class="d-grid gap-2">
+                                        </div>
+                               
+                            </div>
+                        </div>
+
+                    </div>
+         
+        <div class="card-footer bg-dark text-white">
             <div class="d-grid gap-2">
-                <button class="btn btn-outline-warning" type="button">Save Changes</button>
+                <asp:Button runat="server" ID="btnUpdate" Text="Save Changes" CssClass="btn btn-outline-warning" OnClick="btnUpdate_Click" />
                 <a class="btn btn-outline-secondary" href="#">Cancel</a>
             </div>
         </div>
-    </div>
+   </form>
 </asp:Content>

@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace Freireland.Interfaces
 {
-    internal interface ITutor
+    internal interface ITutor : IBase<Tutor>
     {
-        void InsertTutor(Person p, Tutor t);
-        void UpdateTutor(Person p, Tutor t);
+        Tutor GET(int id);
     }
 }
