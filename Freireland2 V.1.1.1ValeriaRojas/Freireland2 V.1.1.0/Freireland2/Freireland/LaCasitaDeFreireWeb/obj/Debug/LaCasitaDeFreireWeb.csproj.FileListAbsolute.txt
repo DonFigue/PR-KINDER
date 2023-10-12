@@ -1,0 +1,427 @@
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll.config
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.pdb
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe.config
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.rsp
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe.config
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.rsp
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.AppContext.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Console.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Http.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.ValueTuple.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe.config
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.rsp
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\Freireland.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\Freireland.pdb
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.AssemblyReference.cache
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CoreCompileInputs.cache
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CopyComplete
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.dll
+C:\Universidad\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.pdb
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll.config
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.pdb
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe.config
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.rsp
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe.config
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.rsp
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.AppContext.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Console.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Globalization.Calendars.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Http.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Sockets.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.ValueTuple.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe.config
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.rsp
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\Freireland.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\Freireland.pdb
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.AssemblyReference.cache
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CopyComplete
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.dll
+E:\Nueva carpeta (2)\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll.config
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe.config
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.rsp
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe.config
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.rsp
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Managed.Core.targets
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.AppContext.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Collections.Immutable.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Console.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Globalization.Calendars.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Http.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Sockets.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Reflection.Metadata.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.ValueTuple.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe.config
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.rsp
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe.config
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.AssemblyReference.cache
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CoreCompileInputs.cache
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CopyComplete
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.pdb
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll.config
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.pdb
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe.config
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.rsp
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe.config
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.rsp
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.AppContext.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Console.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Globalization.Calendars.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Http.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Sockets.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.ValueTuple.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe.config
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.rsp
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\Freireland.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\Freireland.pdb
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.AssemblyReference.cache
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CopyComplete
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.pdb
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll.config
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.pdb
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe.config
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.rsp
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe.config
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.rsp
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.AppContext.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Console.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe.config
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.rsp
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Freireland.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Freireland.pdb
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.AssemblyReference.cache
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CoreCompileInputs.cache
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CopyComplete
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.pdb
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll.config
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.pdb
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe.config
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.rsp
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe.config
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.rsp
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.AppContext.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Console.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe.config
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.rsp
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Freireland.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Freireland.pdb
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CopyComplete
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.pdb
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll.config
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\LaCasitaDeFreireWeb.pdb
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.exe.config
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csc.rsp
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.exe.config
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\csi.rsp
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.AppContext.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Console.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Http.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.ValueTuple.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.exe.config
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\vbc.rsp
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Freireland.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Freireland.pdb
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.AssemblyReference.cache
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CoreCompileInputs.cache
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.csproj.CopyComplete
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\LaCasitaDeFreireWeb\obj\Debug\LaCasitaDeFreireWeb.pdb
