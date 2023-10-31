@@ -1,0 +1,6 @@
+E:\PROYECTOS\final\Freireland\Freireland\bin\Release\Freireland.dll
+E:\PROYECTOS\final\Freireland\Freireland\bin\Release\Freireland.pdb
+E:\PROYECTOS\final\Freireland\Freireland\obj\Release\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+E:\PROYECTOS\final\Freireland\Freireland\obj\Release\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\final\Freireland\Freireland\obj\Release\Freireland.dll
+E:\PROYECTOS\final\Freireland\Freireland\obj\Release\Freireland.pdb

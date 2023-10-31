@@ -1,0 +1,78 @@
+C:\Universidad\Freireland\Freireland\bin\Debug\Freireland.dll
+C:\Universidad\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Universidad\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Universidad\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Universidad\Freireland\Freireland\obj\Debug\Freireland.dll
+C:\Universidad\Freireland\Freireland\obj\Debug\Freireland.pdb
+E:\Nueva carpeta (2)\Freireland\Freireland\bin\Debug\Freireland.dll
+E:\Nueva carpeta (2)\Freireland\Freireland\bin\Debug\Freireland.pdb
+E:\Nueva carpeta (2)\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+E:\Nueva carpeta (2)\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (2)\Freireland\Freireland\obj\Debug\Freireland.dll
+E:\Nueva carpeta (2)\Freireland\Freireland\obj\Debug\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\bin\Debug\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\bin\Debug\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\obj\Debug\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandFigue\Freireland\Freireland\obj\Debug\Freireland.pdb
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\Freireland\bin\Debug\Freireland.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\Freireland\bin\Debug\Freireland.pdb
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\Freireland\obj\Debug\Freireland.dll
+E:\Nueva carpeta (3)\FreirelandFigue\Freireland\Freireland\obj\Debug\Freireland.pdb
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\Freireland\bin\Debug\Freireland.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\Freireland\obj\Debug\Freireland.dll
+C:\Users\VALERIARC\Downloads\Freireland2\Freireland\Freireland\obj\Debug\Freireland.pdb
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\Freireland\bin\Debug\Freireland.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\Freireland\obj\Debug\Freireland.dll
+C:\Users\HP\OneDrive\Escritorio\nkjdnsa\Freireland2\Freireland\Freireland\obj\Debug\Freireland.pdb
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\bin\Debug\Freireland.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\obj\Debug\Freireland.dll
+C:\Universidad\BasesProyectos\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\obj\Debug\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\Freireland2ValeriaR\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\bin\Debug\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\Freireland2ValeriaR\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\bin\Debug\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\Freireland2ValeriaR\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+d:\Users\Pablo Agreda\Downloads\Freireland2ValeriaR\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+d:\Users\Pablo Agreda\Downloads\Freireland2ValeriaR\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\obj\Debug\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\Freireland2ValeriaR\Freireland2 V.1.1.0\Freireland2\Freireland\Freireland\obj\Debug\Freireland.pdb
+C:\Users\VALERIARC\Downloads\Valeria-PR-KINDER\Valeria-PR-KINDER\Freireland\Freireland\bin\Debug\Freireland.dll
+C:\Users\VALERIARC\Downloads\Valeria-PR-KINDER\Valeria-PR-KINDER\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Users\VALERIARC\Downloads\Valeria-PR-KINDER\Valeria-PR-KINDER\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Users\VALERIARC\Downloads\Valeria-PR-KINDER\Valeria-PR-KINDER\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Users\VALERIARC\Downloads\Valeria-PR-KINDER\Valeria-PR-KINDER\Freireland\Freireland\obj\Debug\Freireland.dll
+C:\Users\VALERIARC\Downloads\Valeria-PR-KINDER\Valeria-PR-KINDER\Freireland\Freireland\obj\Debug\Freireland.pdb
+C:\Universidad\BasesProyectos\Valeria-PR-KINDER\Valeria-PR-KINDER\FreirelandRojasAgreda\Freireland\Freireland\bin\Debug\Freireland.dll
+C:\Universidad\BasesProyectos\Valeria-PR-KINDER\Valeria-PR-KINDER\FreirelandRojasAgreda\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Universidad\BasesProyectos\Valeria-PR-KINDER\Valeria-PR-KINDER\FreirelandRojasAgreda\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Universidad\BasesProyectos\Valeria-PR-KINDER\Valeria-PR-KINDER\FreirelandRojasAgreda\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Universidad\BasesProyectos\Valeria-PR-KINDER\Valeria-PR-KINDER\FreirelandRojasAgreda\Freireland\Freireland\obj\Debug\Freireland.dll
+C:\Universidad\BasesProyectos\Valeria-PR-KINDER\Valeria-PR-KINDER\FreirelandRojasAgreda\Freireland\Freireland\obj\Debug\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandRojasAgreda1\FreirelandRojasAgreda\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+d:\Users\Pablo Agreda\Downloads\FreirelandRojasAgreda1\FreirelandRojasAgreda\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+d:\Users\Pablo Agreda\Downloads\FreirelandRojasAgreda1\FreirelandRojasAgreda\Freireland\Freireland\obj\Debug\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandRojasAgreda1\FreirelandRojasAgreda\Freireland\Freireland\obj\Debug\Freireland.pdb
+d:\Users\Pablo Agreda\Downloads\FreirelandRojasAgreda1\FreirelandRojasAgreda\Freireland\Freireland\bin\Debug\Freireland.dll
+d:\Users\Pablo Agreda\Downloads\FreirelandRojasAgreda1\FreirelandRojasAgreda\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Users\HP\OneDrive\Escritorio\Freireland\Freireland\bin\Debug\Freireland.dll
+C:\Users\HP\OneDrive\Escritorio\Freireland\Freireland\bin\Debug\Freireland.pdb
+C:\Users\HP\OneDrive\Escritorio\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Freireland\Freireland\obj\Debug\Freireland.dll
+C:\Users\HP\OneDrive\Escritorio\Freireland\Freireland\obj\Debug\Freireland.pdb
+E:\PROYECTOS\final\Freireland\Freireland\bin\Debug\Freireland.dll
+E:\PROYECTOS\final\Freireland\Freireland\bin\Debug\Freireland.pdb
+E:\PROYECTOS\final\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.AssemblyReference.cache
+E:\PROYECTOS\final\Freireland\Freireland\obj\Debug\LaCasitaDeFreireDAO.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\final\Freireland\Freireland\obj\Debug\Freireland.dll
+E:\PROYECTOS\final\Freireland\Freireland\obj\Debug\Freireland.pdb
